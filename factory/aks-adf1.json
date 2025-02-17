@@ -1,0 +1,9 @@
+{
+	"name": "aks-adf1",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c1219f2b-cad9-4f72-ac75-6c80aea727bc",
+		"tenantId": "a4a689b5-fe77-4b28-aba4-5dd42d1bdc86"
+	}
+}
